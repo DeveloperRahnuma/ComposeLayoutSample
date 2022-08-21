@@ -17,8 +17,6 @@
   <a href = "https://github.com/DeveloperRahnuma/LayoutOrDemoAppUI_JetpackCompose/stargazers">
      <img src = "https://img.shields.io/github/stars/DeveloperRahnuma/LayoutOrDemoAppUI_JetpackCompose" />
   </a>
-https://github.com/DeveloperRahnuma/LayoutOrDemoAppUI_JetpackCompose.git
-
   <a href = "https://github.com/DeveloperRahnuma/LayoutOrDemoAppUI_JetpackCompose/issues">
      <img src = "https://img.shields.io/github/issues/DeveloperRahnuma/LayoutOrDemoAppUI_JetpackCompose" />
   </a>  
@@ -35,9 +33,10 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 
 
 ### Demo Layout Design By Jetpack compose
-Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
-:-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
-![](https://media.giphy.com/media/IddlpOpdboqJwdhxMS/giphy.gif)  |  ![](https://media.giphy.com/media/XSh4SKvAgr6Moj3SDH/giphy.gif) | ![](https://media.giphy.com/media/sEe1vREivaK7ieMPYj/giphy.gif) | ![](https://media.giphy.com/media/n3UTF9SzLpBGneFyj3/giphy.gif)
+<br />
+Complete Crypto App Ui Design             
+:-------------------------:
+![](https://media.giphy.com/media/KgV7x4F7s0eu9Swred/giphy.gif)
 
 
 ## How to get started
