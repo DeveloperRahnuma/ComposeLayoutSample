@@ -33,7 +33,7 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 
 
 ### Demo Layout Design By Jetpack compose
-<br />
+<br></br>
 Complete Crypto App Ui Design             
 :-------------------------:
 ![](https://media.giphy.com/media/KgV7x4F7s0eu9Swred/giphy.gif)
